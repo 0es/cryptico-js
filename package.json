@@ -1,6 +1,6 @@
 {
-  "name": "cryptico-js",
-  "version": "2.0.0-alpha0",
+  "name": "cryptico-key-js",
+  "version": "0.1.0",
   "description": "Encryption/Decryption Library (AES/RSA, based on Cryptico)",
   "main": "./lib/cryptico.js",
   "scripts": {
@@ -13,23 +13,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tracker1/cryptico-js.git"
+    "url": "https://github.com/0es/cryptico-js.git"
   },
-  "author": "Michael J. Ryan <tracker1@gmail.com>",
+  "author": "zero0es <zero0es@hotmail.com>",
   "license": "ISC",
-  "contributors": [
-    {
-      "name": "Rye Terrell",
-      "email": "ryeterrell@ryeterrell.net"
-    },
-    {
-      "name": "Roberto Aguilar",
-      "email": "roberto@baremetal.io"
-    },
-    {
-      "name": "PhpMyCoder"
-    }
-  ],
+  "contributors": [{
+    "name": "Michael J. Ryan",
+    "email": "tracker1@gmail.com"
+  }, {
+    "name": "Rye Terrell",
+    "email": "ryeterrell@ryeterrell.net"
+  }, {
+    "name": "Roberto Aguilar",
+    "email": "roberto@baremetal.io"
+  }, {
+    "name": "PhpMyCoder"
+  }],
   "keywords": [
     "encryption",
     "cryptography",
@@ -39,9 +38,9 @@
     "RSA"
   ],
   "bugs": {
-    "url": "https://github.com/tracker1/cryptico-js/issues"
+    "url": "https://github.com/0es/cryptico-js/issues"
   },
-  "homepage": "https://github.com/tracker1/cryptico-js",
+  "homepage": "https://github.com/0es/cryptico-js",
   "devDependencies": {
     "gulp": "^3.8.6",
     "gulp-browserify": "^0.5.0",
